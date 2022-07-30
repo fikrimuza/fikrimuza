@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @fikrimuza
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning android developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fikrimuza@gmail.com
+# Halo semua! 
 
-<!---
-fikrimuza/fikrimuza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Fikri Muzadi**.\
 
-![screenshot](screenshot.png)
+Saya seorang **Andorid Developer**.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fikri-muzadi/)ku ya.
