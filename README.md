@@ -1,10 +1,8 @@
-# Halo semua! 👋
+# Hi everybody! 👋
 
-Perkenalkan nama saya **Fikri Muzadi**
+My name **Fikri Muzadi** and i am **python programmers**
 
-Saya seorang **Andorid Developer**
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fikri-muzadi/)ku ya.
+If you are interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/fikri-muzadi/).
 
 ### Github Statistic
 <p align="left">
