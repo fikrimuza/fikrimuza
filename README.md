@@ -1,6 +1,6 @@
 # Hi everybody! 👋
 
-My name **Fikri Muzadi** and i am **python programmers**
+My name **Fikri Muzadi** and i am **Python Developer**
 
 If you are interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/fikri-muzadi/).
 
